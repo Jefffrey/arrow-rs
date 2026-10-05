@@ -17,7 +17,7 @@
 
 [package]
 name = "arrow-flight"
-description = "Apache Arrow Flight"
+description = "Apache Arrow "
 version = { workspace = true }
 edition = { workspace = true }
 rust-version = { workspace = true }
