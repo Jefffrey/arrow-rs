@@ -18,7 +18,7 @@
 [package]
 name = "arrow-cast"
 version = { workspace = true }
-description = "Cast kernel and utilities for Apache Arrow"
+description = "Cast kernel and utilities for  Arrow"
 repository = { workspace = true }
 authors = { workspace = true }
 license = { workspace = true }
