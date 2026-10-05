@@ -23,6 +23,8 @@ Welcome to the [Rust][rust] implementation of [Apache Arrow], a popular
 in-memory columnar format and [Apache Parquet], a popular columnar file
 format.
 
+sup
+
 ## Community
 
 We welcome participation from everyone and encourage you to join us, ask
