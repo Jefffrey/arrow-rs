@@ -51,7 +51,7 @@ members = [
 # This is the default for edition 2024 but we must manually specify it for virtual
 # workspaces.
 # - https://github.com/rust-lang/cargo/issues/10112
-# - https://github.com/rust-lang/cargo/issues/10587
+# - https://github.com/rust-lang/cargo/issues/10587_
 resolver = "3"
 
 exclude = [
