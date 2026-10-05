@@ -33,8 +33,7 @@ conduct](https://www.apache.org/foundation/policies/conduct.html).
 We use GitHub [issues] and [pull requests] for all technical discussions, reviews,
 new features, bug fixes and release coordination. This ensures that all communication
 is public and archived for future reference.
-
-The `dev@arrow.apache.org` mailing list is the communication channel for the overall Apache Arrow community.
+row.apache.org` mailing list is the communication channel for the overall Apache Arrow community.
 Instructions for signing up and links to the archives can be found on the [Arrow Community](https://arrow.apache.org/community/) page.
 
 Some community members also use the [Arrow Rust Discord Server](https://discord.gg/YAb2TdazKQ) and the official [ASF Slack](https://s.apache.org/slack-invite) server for informal discussions and coordination.
